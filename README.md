@@ -1,6 +1,6 @@
 # Ontology Learner [![Release Status](https://travis-ci.org/librairy/learner-onto.svg?branch=master)](https://travis-ci.org/librairy/learner-onto) [![Dev Status](https://travis-ci.org/librairy/learner-onto.svg?branch=develop)](https://travis-ci.org/librairy/learner-onto) [![Doc](https://raw.githubusercontent.com/librairy/resources/master/figures/interface.png)](https://rawgit.com/librairy/learner-onto/doc/report/index.html)
 
-Build a Topic Model based on Latent Dirichlet Allocation (LDA) for a given domain
+Build an ontology for a given domain
 
 ## Get Started!
 
