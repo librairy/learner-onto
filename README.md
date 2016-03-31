@@ -31,9 +31,10 @@ That's all!! **librairy Ontology learner** should be run in your system now alon
 
 Instead of deploy all containers as a whole, you can deploy each of them independently. It is useful to run the service in a distributed way deployed in several host-machines.
 
-- **Ontology-Learner**:
+- **Ontology-Learner**:  
+
     ```sh
     $ docker run -it --rm --name learnerOnto librairy/learner-onto
-    ```
+    ````
 
 Remember that by using the flags: `-it --rm`, the services runs in foreground mode. Instead, you can deploy it in background mode as a domain service by using: `-d --restart=always`
